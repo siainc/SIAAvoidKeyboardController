@@ -1,0 +1,7 @@
+target 'SIAAvoidKeyboardController', :exclusive => true do
+  pod "SIAAvoidKeyboardController", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "SIAAvoidKeyboardController", :path => "../"
+end

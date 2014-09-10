@@ -1,0 +1,14 @@
+PODS:
+  - SIAAvoidKeyboardController (0.1.0)
+
+DEPENDENCIES:
+  - SIAAvoidKeyboardController (from `../`)
+
+EXTERNAL SOURCES:
+  SIAAvoidKeyboardController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SIAAvoidKeyboardController: 04899e421e69c6d845f54eba4a1998281f2f0e9e
+
+COCOAPODS: 0.33.1
